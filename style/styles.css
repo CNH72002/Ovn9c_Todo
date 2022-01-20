@@ -1,0 +1,16 @@
+.fz-2{
+    font-size: 2rem;
+}
+
+#dd{
+    float: right;
+}
+
+
+
+
+
+.change{
+    text-decoration: line-through;
+    background-color: #0DCAFC;
+}
